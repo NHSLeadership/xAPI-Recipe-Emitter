@@ -22,6 +22,7 @@ class Controller extends PhpObj {
         'training_session_attend' => 'Attended',
         'training_session_enrol' => 'EventEnrol',
         'training_session_unenrol' => 'EventUnenrol'
+        'activity_completed' => 'ActivityCompleted',
     ];
 
     /**
